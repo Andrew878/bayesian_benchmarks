@@ -9,7 +9,7 @@ requirements = [
 ]
 
 setup(name='bayesian_benchmarks',
-      version='alpha',
+      version='0.0.1',
       author="Hugh Salimbeni",
       author_email="hrs13@ic.ac.uk",
       description=("Bayesian benchmarking"),
